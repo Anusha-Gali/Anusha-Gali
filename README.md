@@ -11,15 +11,10 @@
 #### Operating Systems: Windows, Linux, Unix
 #### Applications: Google Cloud Provider(GCP), Eclipse, NetBeans, Anaconda, Insomnia, Postman
 
-### 🚀 Projects
-
 ### 📚 Education
 #### Northeastern University - Master of Science in Information Systems (Expected Graduation Date - May 2025)
 #### Gokaraju Rangaraju Institute of Engineering and Technology - Bachelors of Engineering in Computer Science Engineering (2016-2020)
 ### 📫 You can reach me on [LinkedIn](www.linkedin.com/in/gali-anusha) and [Email](mailto:gali.anusha@gmail.com).
-
-
-### 📜 Certifications and Badges
 
 
 If you want to talk to me or discuss something, feel free to connect with me.
